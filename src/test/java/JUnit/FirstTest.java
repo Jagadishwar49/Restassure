@@ -1,7 +1,7 @@
 package JUnit;
 
 import io.restassured.http.ContentType;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import static org.hamcrest.Matchers.*;
 
 import static io.restassured.RestAssured.given;
